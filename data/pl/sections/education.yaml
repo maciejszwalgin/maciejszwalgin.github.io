@@ -10,29 +10,29 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Post Studies - Team Management
+- name: Studia podyplomowe - Zarządzanie Zespołami
   icon: fa-microscope
   timeframe: 2011-2012
   institution:
-    name: University of Gdańsk
+    name: Uniwersytet Gdański
     url: https://ug.edu.pl/
     logo: /images/sections/education/logo_ug.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/tech_college.png
   customSections: #(optional)
-    - name: Thesis
-      content: Knowledge Management in Big Organisations.
-- name: Master of Physics and Mathematics
+    - name: Praca dyplomowa
+      content: Zarządzanie Wiedzą w dużych organizacjach.
+- name: Magister fizyki i matematyki
   icon: fa-graduation-cap
   timeframe: 2000-2006
   institution:
-    name: University of Gdańsk
+    name:  Uniwersytet Gdański
     url: https://ug.edu.pl/
     logo: /images/sections/education/logo_ug.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/university.jpg
   customSections: #(optional)
-    - name: Thesis
-      content: Analysis of the Star Rotation Speed in the Pleiades.
-    - name: Information
-      content: In 2002 started the second specialisation, Computer Physics, and started working in Nordea from 2006.08.
+    - name: Praca magisterska
+      content: Analiza prędkości rotacji gwiazd w Plejadach.
+    - name: Informacje
+      content: W 2002 roku rozpoczęto drugą specjalizację – Fizyka komputerowa – oraz od sierpnia 2006 rozpoczęto pracę w Nordea.

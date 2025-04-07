@@ -1,0 +1,143 @@
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+
+experiences:
+  - company:
+      name: Silent Eight Pte. Lte.
+      url: "https://www.silenteight.com"
+      location: Remote
+      logo: /images/sections/experiences/silent-eight-logo-light-background.svg
+      darkLogo: /images/sections/experiences/silent-eight-logo-dark-background.svg
+      overview: Partner ds. zgodności finansowej opartej na AI, pomagający w identyfikacji i zarządzaniu ryzykiem AML z szybkością, wydajnością i niespotykaną precyzją.
+    positions:
+      - designation: DATA ARCHITECT - PRODUCT OWNER - DEVELOPMENT TECH LEAD
+        start: 2022-02
+        responsibilities:
+          - Właściciel produktu ds. zarządzania danymi ryzyka na platformie AML – budowanie wizji produktu, roadmapy oraz dostarczanie i realizacja produktu.
+          - Opracowanie i wdrożenie cyklu życia oprogramowania (SDLC) w całej firmie – od planowania i zbierania wymagań, przez rozwój, wdrożenie po stronie klienta, aż po utrzymanie.
+          - Pomoc w uzyskaniu przez firmę certyfikacji SOC2.
+          - Rola Agile Coacha – prowadzenie transformacji w kierunku zwinnych metod pracy.
+          - Prowadzenie szkoleń dla Product Ownerów – poprawa współpracy między zespołami i promowanie najlepszych praktyk w zarządzaniu produktami w metodyce agile.
+          - Budowa i zarządzanie systemem raportowania zarządczego, w tym wdrożenie Superset (open source BI) oraz ETL danych zarządczych (na Kubernetesie).
+          - Automatyzacja procesów firmowych z wykorzystaniem AI (ChatGPT, Anthropic, Gemini).
+          - Tworzenie agentów AI (Dify).
+          - Wdrożenie i nadzór nad systemem ewidencji czasu pracy (w Jira) oraz raportowanie w Superset i ChatGPT.
+          - Administrator JIRA i Confluence – zarządzanie konfiguracjami oraz doradztwo.
+          - Wdrożenie bazy wiedzy i zarządzanie dokumentacją firmową (w tym firmowy intranet).
+          - Członek Architecture Board – odpowiedzialny za proces NFR (wymagania niefunkcjonalne) związany z bazami danych i Pythonem.
+          - Praca jako programista Python – automatyzacja zadań manualnych, poprawa efektywności.
+          - Tworzenie wspólnych komponentów jako programista React (Tailwind, ShadcnUI, TypeScript).
+          - Ekspert baz danych PostgreSQL – tworzenie solidnych rozwiązań i optymalizacji.
+
+  - company:
+      name: NOBS-IT
+      url: "https://www.nobs-it.pl"
+      location: Remote
+      logo: /images/sections/experiences/nobs_it_logo.png
+    positions:
+      - designation: Self-employed
+        start: 2022-02
+        responsibilities:
+          - Od końca 2024 roku buduję własny produkt – MVP w trakcie realizacji. Prace prowadzone po godzinach pracy i w weekendy.
+          - Kilka drobnych projektów i konsultacji związanych ze sztuczną inteligencją i LLM (LLama, ChatGPT, Anthropic, Gemini itp.).
+
+  - company:
+      name: Nordea Bank Apb SA.
+      url: "https://www.nordea.com"
+      location: Poland
+      logo: /images/sections/experiences/Nordea_500px_RGB.png
+      overview: Wiodąca grupa usług finansowych w regionie nordyckim i jeden z największych banków w Europie.
+    positions:
+      - designation: TEAM LEAD - HEAD OF DATABASE AND REPORTING POLAND
+        start: 2020-02
+        end: 2022-01
+        responsibilities:
+          - Lider 21-osobowego zespołu – programiści ETL (PL/SQL, DataStage, Alteryx, Spark itp.), programiści Python (Pandas, NumPy), programiści BI (PowerBI, QlikView/QlikSense, OBIEE).
+          - Projektant raportowania back-office, lider technologiczny i dostawca rozwiązań dla 3 aplikacji (w tym współpraca z firmami zewnętrznymi – Clearing Houses – LCH/EUREX/NASDAQ).
+          - Tworzenie planów krótko- i długoterminowych oraz roadmap dla każdej aplikacji (w tym odpowiedzialność za budżet – 2 mln EUR).
+          - Inicjator portalu technologicznego (Power BI i Python) – inicjatywa małych liderów mająca na celu zbudowanie wiedzy o umiejętnościach i odpowiedzialnościach pracowników.
+
+      - designation: TEAM LEAD - HEAD OF WBO REPORTING TECHNOLOGY
+        start: 2018-03
+        end: 2020-01
+        responsibilities:
+          - Lider 15-osobowego zespołu (programiści IT, analitycy testów, kierownik testów, analitycy IT, Scrum Masterzy).
+          - Właściciel 6 aplikacji (rozwój/utrzymanie).
+          - Tworzenie strategii krótko- i długoterminowych dla aplikacji (w tym nowej architektury raportowania).
+          - Współtworzenie nowych zespołów w Polsce dla nordyckich współpracowników.
+          - Wdrażanie metodyki Agile/Scrum w zespołach (inicjator społeczności Scrum Masterów w Capital Markets).
+          - Agile Coach – wsparcie biznesu w zrozumieniu roli Product Ownera (priorytetyzacja backlogu w 3 zespołach scrumowych).
+          - Trener Nordea (SQL dla początkujących, Zarządzanie czasem w 1h, Confluence i JIRA od podstaw do poziomu eksperta).
+
+  - company:
+      name: Nordea Bank Apb SA (Capital Markets)
+      url: "https://www.nordea.com"
+      location: Poland
+      logo: /images/sections/experiences/Nordea_500px_RGB.png
+      overview: Wiodąca grupa usług finansowych w regionie nordyckim i jeden z największych banków w Europie.
+    positions:
+      - designation: TEAM LEAD - HEAD OF DATABASE AND REPORTING POLAND
+        start: 2017-10
+        end: 2018-03
+        responsibilities:
+          - Lider i Scrum Master 8-osobowego zespołu (programiści IT, analitycy testów IT, analitycy IT).
+          - Udział w rekrutacjach do biura Nordea w Polsce (wsparcie nordyckich kolegów).
+          - Odpowiedzialność za 4 aplikacje (produkcyjne i back-office).
+
+      - designation: IT SENIOR DEVELOPER (ETL Developer)
+        start: 2016-08
+        end: 2017-10
+        responsibilities:
+          - Projektant i deweloper raportów regulacyjnych (PL/SQL, IBM DataStage, Java, modelowanie danych).
+          - Tworzenie komponentu Java do maskowania danych w środowisku testowym/dev (dla IBM DataStage).
+          - Scrum Master w projektach.
+          - Raportowanie regulacyjne (ESMA, FSA, EBC itd.) – Dania, Szwecja, Finlandia, Norwegia.
+
+  - company:
+      name: Nordea IT Poland Sp z.o.o
+      url: "https://www.nordea.com"
+      location: Poland
+      logo: /images/sections/experiences/Nordea_500px_RGB.png
+      overview: Wiodąca grupa usług finansowych w regionie nordyckim i jeden z największych banków w Europie.
+    positions:
+      - designation: IT EXPERT DEVELOPER (ETL / TEST AUTOMATION DEVELOPER)
+        start: 2014-01
+        end: 2016-07
+        responsibilities:
+          - Autor wielu standardów dotyczących baz danych Oracle i hurtowni danych (w tym CI/CD).
+          - Utrzymanie, refaktoryzacja, optymalizacja i tuning wydajności baz danych Oracle (PL/SQL).
+          - Tworzenie narzędzia do migracji JIRA (JAVA / REST) między instancjami – rozwiązanie unikalne na rynku.
+          - Rozwiązywanie problemów z bazą danych Oracle.
+          - Scrum Master.
+          - Ekstrakcja danych z T24 do Księgi Głównej + automatyzacja testów (HP ALM, HP UFT, C#).
+
+  - company:
+      name: Nordea Bank Polska SA
+      url: "https://www.nordea.com"
+      location: Poland
+      logo: /images/sections/experiences/Nordea_500px_RGB.png
+      overview: Wiodąca grupa usług finansowych w regionie nordyckim i jeden z największych banków w Europie.
+    positions:
+      - designation: IT SENIOR DEVELOPER (ETL DEVELOPER)
+        start: 2011-04
+        end: 2014-01
+        responsibilities:
+          - Członek najlepszego zespołu programistów – rozwiązywanie problemów produkcyjnych i wydajnościowych.
+          - Analityk, projektant i deweloper rozwiązań hurtowni danych (Polska, Estonia, Łotwa, Litwa).
+          - Tworzenie struktur DWH, ETL-i oraz raportów (w tym raportowanie dla ECB).
+          - Koordynacja zadań konsultantów zewnętrznych – odbiór jakości ich pracy.
+          - Migracja repozytoriów ze SVN do GIT – autor standardów GIT.
+          - Administrator i Content Manager Confluence / JIRA / Fisheye / Crucible.
+
+      - designation: IT SYSTEM ANALYST (ETL DEVELOPER)
+        start: 2006-08
+        end: 2011-03
+        responsibilities:
+          - Analityk i programista rozwiązań hurtowni danych Oracle (ETL, DB).
+          - Autor standardów Oracle (wzorowanych na Stevenie Feuersteinie) – wykorzystywanych w Polsce i w Grupie Nordea.
+          - Odpowiedzialność za zestawienia kont bankowych i raportowanie Core Banking (Globus – T24).
+          - Ekstrakcja danych z systemu bankowego do hurtowni Oracle (CDW).

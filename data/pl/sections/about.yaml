@@ -20,23 +20,24 @@ company:
 
 # a summary about you
 summary: |
-  Team Leader and Software Engineer with 19 years of experience in the area of analysis, design, 
-  and development of software.
+  Lider Zespołu i Inżynier Oprogramowania z 19-letnim doświadczeniem w zakresie analizy, projektowania 
+  i tworzenia oprogramowania.
   
-  I have DevOps and Agile mindset. I appreciate people who are: open, honest, and transparent. 
-  I am a person who can work individually and in a team, but the most important value is responsibility 
-  and ownership for the effects of my and my teamwork. I have a creative mindset, I always try to share my ideas 
-  with others and listen to others to choose the best approach and solution. 
-  
+  Posiadam podejście DevOps oraz Agile. Cenię ludzi, którzy są otwarci, szczerzy i transparentni. 
+  Potrafię pracować zarówno indywidualnie, jak i zespołowo, jednak najważniejszą wartością 
+  jest dla mnie odpowiedzialność i branie współodpowiedzialności za efekty mojej pracy oraz pracy zespołu. 
+  Mam kreatywne podejście – zawsze staram się dzielić swoimi pomysłami z innymi i słuchać innych, 
+  by wspólnie wybrać najlepsze podejście i rozwiązanie.
+
   ---------------------------------------------
+
+  Moje motto przywódcze:
+  - Z dobrymi ludźmi można przenosić góry – to ludzie są najważniejsi
+  - Dobry lider pomaga ludziom się rozwijać – powinni być lepsi od lidera
   
-  My leadership mottos:
-  - With good people you can move mountains – people are the most important
-  - Good leaders help people to grow – they should be better than a leader
-  
-  Other Mottos:
-  - DevOps should not be a job title - it is mindset :-)
-  - Agile is more than a method - it's a mindset ;-)
+  Inne motta:
+  - DevOps nie powinno być nazwą stanowiska – to sposób myślenia :-)
+  - Agile to więcej niż metoda – to mindset ;-)
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -68,7 +69,7 @@ socialLinks:
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-- title: "Download CV / Resume (.pdf)"
+- title: "Pobierz CV / Resume (.pdf)"
   url: "files/Resume-CV-MaciejSzwalgin.pdf"
 
 # Show your badges
@@ -76,32 +77,32 @@ resourceLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: soft-skill-indicator
-  name: Leadership
+  name: Liderstwo
   percentage: 90
   color: blue
 
 - type: soft-skill-indicator
-  name: Accountability
+  name: Odpowiedzialność
   percentage: 90
   color: "#FFFFFF"
 
 - type: soft-skill-indicator
-  name: Team Player
+  name: Gracz zespołowy
   percentage: 90
   color: "#a020f0"
 
 - type: soft-skill-indicator
-  name: Passion
+  name: Pasja
   percentage: 95
   color: "#0ff"
 
 - type: soft-skill-indicator
-  name: Flexibility
+  name: Elastyczność
   percentage: 85
   color: yellow
 
 - type: soft-skill-indicator
-  name: Creativity
+  name: Kreatywność
   percentage: 85
   color: green
 
