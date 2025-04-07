@@ -27,7 +27,7 @@ languages:
     weight: 1
   pl:
     languageCode: pl
-    languageName: Polish
+    languageName: Polski
     title: Maciej Szwalgin Portfolio
     weight: 2
 # default language for the content
