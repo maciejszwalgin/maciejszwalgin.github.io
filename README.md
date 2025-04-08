@@ -1,5 +1,5 @@
 # maciejszwalgin.github.io
 
-## My personal site
+## My personal portfolio
 
 Made using Hugo and Toha theme
