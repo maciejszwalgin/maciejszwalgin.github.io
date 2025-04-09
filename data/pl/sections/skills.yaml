@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Skills
+  name: Umiejętności
   id: skills
   enable: true
   weight: 2
@@ -13,15 +13,15 @@ section:
 buttons:
   - name: All
     filter: "all"
-  - name: Database
+  - name: Bazy danych
     filter: "database"
-  - name: Language
+  - name: Języki programowania
     filter: "language"
-  - name: DevOps & Cloud
+  - name: DevOps & Chmura
     filter: "devops-cloud"
-  - name: Tools & Platforms
+  - name: Platformy i narzędzia
     filter: "tools-platforms"
-  - name: Methodology & Management
+  - name: Metodologia & Zarządzanie
     filter: "methodology"
   - name: AI
     filter: "ai"
@@ -33,313 +33,313 @@ buttons:
 skills:
 - name: Oracle Database
   logo: /images/sections/skills/oracle.png
-  summary: "OCP certified. Expert in Oracle DB (up to 147TB), performance tuning (20h to 2h), DWH, data modeling, administration (OCA DBA), and problem-solving."
+  summary: "Certyfikowany OCP. Ekspert w Oracle DB (do 147TB), optymalizacji wydajności (20h do 2h), hurtowniach danych, modelowaniu danych, administracji (OCA DBA) i rozwiązywaniu problemów."
   categories: ["database"]
   url: "https://www.oracle.com/database/"
 
 - name: PostgreSQL
   logo: /images/sections/skills/postgres.png
-  summary: "Expert in PostgreSQL databases, providing robust solutions and optimizations, particularly within the Silent Eight AML platform."
+  summary: "Ekspert w bazach danych PostgreSQL, zapewniający solidne rozwiązania i optymalizacje, szczególnie w ramach platformy Silent Eight AML."
   categories: ["database"]
   url: "https://www.postgresql.org/"
 
 - name: SQL
   logo: /images/sections/skills/sql.png
-  summary: "Extensive experience across various DBs. Oracle SQL Certified Expert. Trainer for SQL for beginners."
+  summary: "Obszerne doświadczenie w różnych bazach danych. Certyfikowany ekspert Oracle SQL. Trener SQL dla początkujących."
   categories: ["language", "database"]
 
 - name: PL/SQL
   logo: /images/sections/skills/plsql.png
-  summary: "OCP certified. 15+ years developing, optimizing (20h->2h), and maintaining complex PL/SQL code for DWH, ETL, and core banking."
+  summary: "Certyfikowany OCP. 15+ lat doświadczenia w tworzeniu, optymalizacji (20h->2h) i utrzymaniu złożonego kodu PL/SQL dla hurtowni danych, ETL i systemów bankowych."
   categories: ["language", "database"]
 
 - name: Data Warehousing (DWH)
   logo: /images/sections/skills/dwh.png
-  summary: "15+ years designing, developing, optimizing DWH solutions (incl. Data Vault 2.0), ETLs, and reporting marts across multiple countries."
+  summary: "15+ lat projektowania, tworzenia i optymalizacji rozwiązań hurtowni danych (w tym Data Vault 2.0), ETL i hurtowni raportowych w wielu krajach."
   categories: ["database", "methodology"]
 
 - name: ETL Development
   logo: /images/sections/skills/etl.png
-  summary: "Developed complex ETL processes using PL/SQL, IBM DataStage, Alteryx, Spark, and Python for DWH, regulatory reporting, and data integration."
+  summary: "Tworzenie złożonych procesów ETL przy użyciu PL/SQL, IBM DataStage, Alteryx, Spark i Python dla hurtowni danych, raportowania regulacyjnego i integracji danych."
   categories: ["methodology", "database"]
 
 - name: Data Modeling
   logo: /images/sections/skills/data-modeling.png
-  summary: "Extensive experience in data modeling for DWH (incl. Data Vault 2.0) and transactional systems across multiple large projects."
+  summary: "Obszerne doświadczenie w modelowaniu danych dla hurtowni danych (w tym Data Vault 2.0) i systemów transakcyjnych w wielu dużych projektach."
   categories: ["database", "methodology"]
 
 - name: Data Vault 2.0
   logo: /images/sections/skills/datavault.png
-  summary: "Trained in Data Vault 2.0 methodology for modern data warehousing."
+  summary: "Przeszkolony w metodologii Data Vault 2.0 dla nowoczesnych hurtowni danych."
   categories: ["database", "methodology"]
 
 - name: Python
   logo: /images/sections/skills/python.png
-  summary: "Used for automation, ETL (Pandas, Spark, Polars, NumPy), AI/LLM exploration, management reporting, and developing internal tools."
+  summary: "Używany do automatyzacji, ETL (Pandas, Spark, Polars, NumPy), eksploracji AI/LLM, raportowania zarządczego i tworzenia narzędzi wewnętrznych."
   categories: ["language", "ai"]
   url: "https://www.python.org/"
 
 - name: Shell Scripting (Bash)
   logo: /images/sections/skills/shell.png
-  summary: "Proficient in writing bash/shell scripts for automation and system tasks in Linux environments."
+  summary: "Biegły w pisaniu skryptów bash/shell do automatyzacji i zadań systemowych w środowiskach Linux."
   categories: ["language"]
 
 - name: Jira
   logo: /images/sections/skills/jira.png
-  summary: "Expert Jira Administrator and user. Implemented Jira, managed workflows, created migration tools, used for time tracking and project management. Trainer."
+  summary: "Ekspert w administracji i użytkowaniu Jira. Wdrożył Jira, zarządzał przepływami pracy, tworzył narzędzia migracyjne, używał do śledzenia czasu i zarządzania projektami. Trener."
   categories: ["tools-platforms", "methodology"]
   url: "https://www.atlassian.com/software/jira"
 
 - name: Confluence
   logo: /images/sections/skills/confluence.png
-  summary: "Expert Confluence Administrator and Content Manager. Implemented knowledge bases and company intranet. Trainer."
+  summary: "Ekspert w administracji i zarządzaniu treścią Confluence. Wdrożył bazy wiedzy i intranety firmowe. Trener."
   categories: ["tools-platforms", "methodology"]
   url: "https://www.atlassian.com/software/confluence"
 
 - name: React
   logo: /images/sections/skills/react.png
-  summary: "Developed common UI components using React, Tailwind, Shadcn/UI, and TypeScript."
+  summary: "Tworzenie wspólnych komponentów UI przy użyciu React, Tailwind, Shadcn/UI i TypeScript."
   categories: ["language", "web"]
   url: "https://reactjs.org/"
 
 - name: JavaScript
   logo: /images/sections/skills/js.png
-  summary: "Used alongside React and TypeScript for front-end development."
+  summary: "Używany wraz z React i TypeScript do tworzenia front-endu."
   categories: ["language", "web"]
   url: "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
 
 - name: TypeScript
   logo: /images/sections/skills/typescript.png
-  summary: "Used with React for developing type-safe front-end components."
+  summary: "Używany z React do tworzenia bezpiecznych typowo komponentów front-endowych."
   categories: ["language", "web"]
   url: "https://www.typescriptlang.org/"
 
 - name: Tailwind CSS
   logo: /images/sections/skills/tailwindcss.png
-  summary: "Used Tailwind CSS for styling React components."
+  summary: "Używany do stylowania komponentów React."
   categories: ["web"]
   url: "https://tailwindcss.com/"
 
 - name: Shadcn/UI
   logo: /images/sections/skills/shadcn.png
-  summary: "Utilized Shadcn/UI component library with React and Tailwind."
+  summary: "Wykorzystanie biblioteki komponentów Shadcn/UI z React i Tailwind."
   categories: ["web"]
   url: "https://ui.shadcn.com/"
 
 - name: Vite
   logo: /images/sections/skills/vite.png
-  summary: "Used for building React applications."
+  summary: "Używany do budowania aplikacji React."
   categories: ["web"]
   url: "https://vitejs.dev/"
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development (GitHub, GitLab). Migrated repositories from SVN, created standards."
+  summary: "Doświadczenie w rozwoju opartym na git (GitHub, GitLab). Migrował repozytoria z SVN, tworzył standardy."
   categories: ["devops-cloud", "tools-platforms"]
   url: "https://git-scm.com/"
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
-  summary: "Experience deploying and managing containerized applications."
+  summary: "Doświadczenie w wdrażaniu i zarządzaniu aplikacjami konteneryzowanymi."
   categories: ["devops-cloud", "tools-platforms"]
   url: "https://www.docker.com/"
 
 - name: Kubernetes
   logo: /images/sections/skills/kubernetes.png
-  summary: "Experience deploying and managing applications on Kubernetes (incl. AWS EKS). Used for management reporting ETL."
+  summary: "Doświadczenie we wdrażaniu i zarządzaniu aplikacjami na Kubernetes (w tym AWS EKS). Używany do ETL raportowania zarządczego."
   categories: ["devops-cloud", "tools-platforms"]
   url: "https://kubernetes.io/"
 
 - name: AWS (Amazon Web Services)
   logo: /images/sections/skills/aws.png
-  summary: "Experience with AWS services, particularly EKS for Kubernetes deployments and infrastructure for reporting platforms."
+  summary: "Doświadczenie z usługami AWS, szczególnie EKS dla wdrożeń Kubernetes i infrastruktury dla platform raportowych."
   categories: ["devops-cloud"]
   url: "https://aws.amazon.com/"
 
 - name: Helm
   logo: /images/sections/skills/helm.svg
-  summary: "Used for packaging and managing Kubernetes applications."
+  summary: "Używany do pakowania i zarządzania aplikacjami Kubernetes."
   categories: ["devops-cloud", "tools-platforms"]
   url: "https://helm.sh/"
 
 - name: Argo CD
   logo: /images/sections/skills/argocd.png
-  summary: "Experience with GitOps principles using Argo CD for continuous delivery on Kubernetes."
+  summary: "Doświadczenie z zasadami GitOps przy użyciu Argo CD do ciągłego dostarczania na Kubernetes."
   categories: ["devops-cloud", "tools-platforms"]
   url: "https://argo-cd.readthedocs.io/"
 
 - name: Jenkins
   logo: /images/sections/skills/jenkins.png
-  summary: "Used for building CI/CD pipelines."
+  summary: "Używany do budowania potoków CI/CD."
   categories: ["devops-cloud"]
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Proficient in using Linux environments for development and deployment."
+  summary: "Biegły w używaniu środowisk Linux do rozwoju i wdrażania."
   categories: ["devops-cloud", "tools-platforms"]
 
 - name: Lens (Kubernetes IDE)
   logo: /images/sections/skills/lens.png
-  summary: "Used as an IDE for managing and visualizing Kubernetes clusters."
+  summary: "Używany jako IDE do zarządzania i wizualizacji klastrów Kubernetes."
   categories: ["tools-platforms", "devops-cloud"]
   url: "https://k8slens.dev/"
 
 - name: IBM DataStage
   logo: /images/sections/skills/datastage.png
-  summary: "Used DataStage for complex ETL development in regulatory reporting and DWH projects. Developed custom Java components for it."
+  summary: "Używany DataStage do złożonego rozwoju ETL w projektach raportowania regulacyjnego i hurtowni danych. Tworzył niestandardowe komponenty Java."
   categories: ["tools-platforms", "database"]
 
 - name: Apache Spark
   logo: /images/sections/skills/spark.png
-  summary: "Used Spark (via Python) for ETL processes and data manipulation in management reporting."
+  summary: "Używany Spark (przez Python) do procesów ETL i manipulacji danymi w raportowaniu zarządczym."
   categories: ["tools-platforms", "database"]
   url: "https://spark.apache.org/"
 
 - name: Power BI
   logo: /images/sections/skills/powerbi.png
-  summary: "Developed reports and dashboards using Power BI. Led BI developers."
+  summary: "Tworzenie raportów i dashboardów przy użyciu Power BI. Kierował zespołem deweloperów BI."
   categories: ["tools-platforms"]
   url: "https://powerbi.microsoft.com/"
 
 - name: Apache Superset
   logo: /images/sections/skills/superset.png
-  summary: "Implemented and managed Superset for business intelligence and management reporting."
+  summary: "Wdrożył i zarządzał Superset dla business intelligence i raportowania zarządczego."
   categories: ["tools-platforms"]
   url: "https://superset.apache.org/"
 
 - name: Agile Methodologies (Scrum/Kanban)
   logo: /images/sections/skills/agile.png
-  summary: "Agile Geek. PSM I certified. Implemented Scrum/Kanban, coached teams and Product Owners, acted as Scrum Master and Agile Coach."
+  summary: "Entuzjasta Agile. Certyfikowany PSM I. Wdrożył Scrum/Kanban, szkolił zespoły i Product Ownerów, pełnił rolę Scrum Mastera i Agile Coacha."
   categories: ["methodology"]
   url: "https://agilemanifesto.org/"
 
 - name: Product Management / Ownership
   logo: /images/sections/skills/po.jpg
-  summary: "Acted as Product Owner, responsible for product vision, roadmap, backlog prioritization, and delivery. Trained other POs."
+  summary: "Pełnił rolę Product Ownera, odpowiedzialny za wizję produktu, roadmapę, priorytetyzację backlogu i dostarczanie. Szkolił innych PO."
   categories: ["methodology"]
 
 - name: SDLC Implementation & Management
   logo: /images/sections/skills/sdlc.png
-  summary: "Designed, implemented, and managed the full Software Development Life Cycle (SDLC) across an organization, supporting SOC2 certification."
+  summary: "Projektował, wdrażał i zarządzał pełnym cyklem życia oprogramowania (SDLC) w organizacji, wspierając certyfikację SOC2."
   categories: ["methodology"]
 
 - name: Project Management
   logo: /images/sections/skills/project-management.png
-  summary: "Experience managing projects, timelines, budgets (2M+ EUR), and resources, particularly in Agile environments."
+  summary: "Doświadczenie w zarządzaniu projektami, harmonogramami, budżetami (2M+ EUR) i zasobami, szczególnie w środowiskach Agile."
   categories: ["methodology"]
 
 - name: Team Leadership & Management
   logo: /images/sections/skills/leadership.png
-  summary: "Led teams up to 21 people. Focused on servant leadership, team building, hiring (32+), and fostering growth."
+  summary: "Kierował zespołami do 21 osób. Skupiony na przywództwie służebnym, budowaniu zespołów, rekrutacji (32+) i wspieraniu rozwoju."
   categories: ["methodology"]
 
 - name: Risk Management
   logo: /images/sections/skills/risk-management.png
-  summary: "Experience identifying and managing project and operational risks. Trained in Risk Management."
+  summary: "Doświadczenie w identyfikacji i zarządzaniu ryzykami projektowymi i operacyjnymi. Przeszkolony w zarządzaniu ryzykiem."
   categories: ["methodology"]
 
 - name: Business Analysis
   logo: /images/sections/skills/ba.png
-  summary: "Certified Business Analyst (George Washington University). Experience in requirements gathering, process modeling, and use case modeling."
+  summary: "Certyfikowany Analityk Biznesowy (George Washington University). Doświadczenie w zbieraniu wymagań, modelowaniu procesów i przypadków użycia."
   categories: ["methodology"]
 
 - name: Knowledge Management
   logo: /images/sections/skills/knowledge-management.png
-  summary: "Initiated and implemented knowledge management systems using Confluence and Jira. Managed company documentation and intranet."
+  summary: "Inicjował i wdrażał systemy zarządzania wiedzą przy użyciu Confluence i Jira. Zarządzał dokumentacją firmową i intranetem."
   categories: ["methodology", "tools-platforms"]
 
 - name: Software Design Principles
   logo: /images/sections/skills/dev-design.png
-  summary: "Adherence to SOLID, KISS, DRY principles for writing maintainable and scalable code."
+  summary: "Przestrzeganie zasad SOLID, KISS, DRY do pisania kodu łatwego w utrzymaniu i skalowaniu."
   categories: ["methodology"]
 
 - name: Cursor
   logo: /images/sections/skills/cursor.png
-  summary: "Cursor is a powerful AI-powered coding assistant that helps developers write code faster and more efficiently. It offers code completion, code explanations, and code generation capabilities, making it an invaluable tool for developers of all levels."
+  summary: "Cursor to potężny asystent programistyczny wspomagany przez AI, który pomaga programistom pisać kod szybciej i efektywniej. Oferuje uzupełnianie kodu, wyjaśnienia kodu i możliwości generowania kodu, co czyni go nieocenionym narzędziem dla programistów na wszystkich poziomach."
   categories: ["ai", "tools-platforms"]
   url: "https://www.cursor.com/"
 
 - name: Artificial Intelligence (AI) & LLMs
   logo: /images/sections/skills/ai.png
-  summary: "Explored and applied AI/LLMs (ChatGPT, Anthropic, Gemini, Ollama) for process automation, reporting, and agent development (Dify). Hobbyist and enthusiast."
+  summary: "Eksploracja i zastosowanie AI/LLM (ChatGPT, Anthropic, Gemini, Ollama) do automatyzacji procesów, raportowania i rozwoju agentów (Dify). Hobbysta i entuzjasta."
   categories: ["ai"]
 
 - name: TensorFlow
   logo: /images/sections/skills/tensorflow.png
-  summary: "Explored TensorFlow as part of AI/ML learning (Google ML Crash Course)."
+  summary: "Eksploracja TensorFlow jako część nauki AI/ML (Google ML Crash Course)."
   categories: ["ai", "tools-platforms"]
   url: "https://www.tensorflow.org/"
 
 - name: Ollama
   logo: /images/sections/skills/ollama.png
-  summary: "Used for running and experimenting with local Large Language Models (LLMs)."
+  summary: "Używany do uruchamiania i eksperymentowania z lokalnymi Large Language Models (LLM)."
   categories: ["ai", "tools-platforms"]
   url: "https://ollama.com/"
 
 - name: Dify.ai
   logo: /images/sections/skills/dify.png
-  summary: "Developed AI Agents using the Dify platform for process automation."
+  summary: "Tworzenie agentów AI przy użyciu platformy Dify do automatyzacji procesów."
   categories: ["ai", "tools-platforms"]
   url: "https://dify.ai/"
 
 - name: Test-Driven Development (TDD/ATDD/BDD)
   logo: /images/sections/skills/tdd.png
-  summary: "Familiar with and applied various test-driven development methodologies. Experience with Test Automation."
+  summary: "Zna i stosował różne metodologie test-driven development. Doświadczenie z automatyzacją testów."
   categories: ["methodology"]
 
 - name: Scaled Agile Framework (SAFe)
   logo: /images/sections/skills/safe4.png
-  summary: "Certified SAFe 4 Agilist. Experience with large-scale agile frameworks."
+  summary: "Certyfikowany SAFe 4 Agilist. Doświadczenie z frameworkami Agile w dużej skali."
   categories: ["methodology"]
   url: "https://www.scaledagileframework.com/"
 
 - name: TOGAF
   logo: /images/sections/skills/togaf.png
-  summary: "TOGAF 9 Foundation certified. Understanding of enterprise architecture frameworks."
+  summary: "Certyfikowany TOGAF 9 Foundation. Zrozumienie frameworków architektury przedsiębiorstwa."
   categories: ["methodology"]
   url: "https://www.opengroup.org/togaf"
 
 - name: ITIL
   logo: /images/sections/skills/itil.png
-  summary: "ITIL Foundation certified. Knowledge of IT service management best practices."
+  summary: "Certyfikowany ITIL Foundation. Znajomość najlepszych praktyk zarządzania usługami IT."
   categories: ["methodology"]
   url: "https://www.axelos.com/best-practice-solutions/itil"
 
 - name: Java
   logo: /images/sections/skills/java.png
-  summary: "Java SE 8 Programmer certified. Developed custom components (e.g., for DataStage, Jira migration tool using REST). Familiar with Spring, Java EE, JSF, EJB."
+  summary: "Certyfikowany programista Java SE 8. Tworzył niestandardowe komponenty (np. dla DataStage, narzędzie migracyjne Jira używające REST). Zna Spring, Java EE, JSF, EJB."
   categories: ["language"]
   url: "https://www.java.com/"
 
 - name: C#
   logo: /images/sections/skills/csharp.png
-  summary: "Used C# for Test Automation development with HP ALM/UFT."
+  summary: "Używany C# do rozwoju automatyzacji testów z HP ALM/UFT."
   categories: ["language"]
 
 - name: Alteryx
   logo: /images/sections/skills/alteryx.png
-  summary: "Utilized Alteryx for ETL development as part of a broader data engineering toolkit."
+  summary: "Wykorzystanie Alteryx do rozwoju ETL jako część szerszego zestawu narzędzi inżynierii danych."
   categories: ["tools-platforms", "database"]
 
 - name: QlikView / QlikSense
   logo: /images/sections/skills/qlik.png
-  summary: "Experience leading teams using QlikView/QlikSense for BI development."
+  summary: "Doświadczenie w kierowaniu zespołami używającymi QlikView/QlikSense do rozwoju BI."
   categories: ["tools-platforms"]
   url: "https://www.qlik.com/"
 
 - name: Oracle BI (OBIEE/Publisher)
   logo: /images/sections/skills/oracle.png
-  summary: "Led teams using OBIEE. Trained in Oracle BI Publisher and Discoverer."
+  summary: "Kierował zespołami używającymi OBIEE. Przeszkolony w Oracle BI Publisher i Discoverer."
   categories: ["tools-platforms"]
   url: "https://www.oracle.com/business-analytics/"
 
 - name: Test Automation (HP ALM/UFT)
   logo: /images/sections/skills/hp-alm.png
-  summary: "Developed automated tests using HP ALM and UFT with C#."
+  summary: "Tworzenie zautomatyzowanych testów przy użyciu HP ALM i UFT z C#."
   categories: ["tools-platforms"]
 
 - name: T24 (Temenos)
   logo: /images/sections/skills/temenos.png
-  summary: "Experience extracting data from and integrating with the T24 Core Banking System."
+  summary: "Doświadczenie w ekstrakcji danych i integracji z systemem bankowym T24 Core Banking."
   categories: ["tools-platforms"]
   url: "https://www.temenos.com/products/t24-transact/"
