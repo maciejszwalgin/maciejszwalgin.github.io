@@ -64,7 +64,7 @@ skills:
   categories: ["methodology", "database"]
 
 - name: Data Modeling
-  logo: /images/sections/skills/data_modeling.png
+  logo: /images/sections/skills/data-modeling.png
   summary: "Extensive experience in data modeling for DWH (incl. Data Vault 2.0) and transactional systems across multiple large projects."
   categories: ["database", "methodology"]
 
@@ -236,7 +236,7 @@ skills:
   url: "https://superset.apache.org/"
 
 - name: Test Automation (HP ALM/UFT)
-  logo: /images/sections/skills/hpalm.png
+  logo: /images/sections/skills/hp-alm.png
   summary: "Developed automated tests using HP ALM and UFT with C#."
   categories: ["tools-platforms"]
 
@@ -288,7 +288,7 @@ skills:
   categories: ["methodology", "tools-platforms"]
 
 - name: Software Design Principles
-  logo: /images/sections/skills/dev_design.png
+  logo: /images/sections/skills/dev-design.png
   summary: "Adherence to SOLID, KISS, DRY principles for writing maintainable and scalable code."
   categories: ["methodology"]
 
