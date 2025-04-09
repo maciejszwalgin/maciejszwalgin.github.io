@@ -79,21 +79,22 @@ skills:
   categories: ["language", "ai"]
   url: "https://www.python.org/"
 
-- name: Java
-  logo: /images/sections/skills/java.png
-  summary: "Java SE 8 Programmer certified. Developed custom components (e.g., for DataStage, Jira migration tool using REST). Familiar with Spring, Java EE, JSF, EJB."
-  categories: ["language"]
-  url: "https://www.java.com/"
-
 - name: Shell Scripting (Bash)
   logo: /images/sections/skills/shell.png
   summary: "Proficient in writing bash/shell scripts for automation and system tasks in Linux environments."
   categories: ["language"]
 
-- name: C#
-  logo: /images/sections/skills/csharp.png
-  summary: "Used C# for Test Automation development with HP ALM/UFT."
-  categories: ["language"]
+- name: Jira
+  logo: /images/sections/skills/jira.png
+  summary: "Expert Jira Administrator and user. Implemented Jira, managed workflows, created migration tools, used for time tracking and project management. Trainer."
+  categories: ["tools-platforms", "methodology"]
+  url: "https://www.atlassian.com/software/jira"
+
+- name: Confluence
+  logo: /images/sections/skills/confluence.png
+  summary: "Expert Confluence Administrator and Content Manager. Implemented knowledge bases and company intranet. Trainer."
+  categories: ["tools-platforms", "methodology"]
+  url: "https://www.atlassian.com/software/confluence"
 
 - name: React
   logo: /images/sections/skills/react.png
@@ -183,26 +184,9 @@ skills:
   categories: ["tools-platforms", "devops-cloud"]
   url: "https://k8slens.dev/"
 
-- name: Jira
-  logo: /images/sections/skills/jira.png
-  summary: "Expert Jira Administrator and user. Implemented Jira, managed workflows, created migration tools, used for time tracking and project management. Trainer."
-  categories: ["tools-platforms", "methodology"]
-  url: "https://www.atlassian.com/software/jira"
-
-- name: Confluence
-  logo: /images/sections/skills/confluence.png
-  summary: "Expert Confluence Administrator and Content Manager. Implemented knowledge bases and company intranet. Trainer."
-  categories: ["tools-platforms", "methodology"]
-  url: "https://www.atlassian.com/software/confluence"
-
 - name: IBM DataStage
   logo: /images/sections/skills/datastage.png
   summary: "Used DataStage for complex ETL development in regulatory reporting and DWH projects. Developed custom Java components for it."
-  categories: ["tools-platforms", "database"]
-
-- name: Alteryx
-  logo: /images/sections/skills/alteryx.png
-  summary: "Utilized Alteryx for ETL development as part of a broader data engineering toolkit."
   categories: ["tools-platforms", "database"]
 
 - name: Apache Spark
@@ -217,34 +201,11 @@ skills:
   categories: ["tools-platforms"]
   url: "https://powerbi.microsoft.com/"
 
-- name: QlikView / QlikSense
-  logo: /images/sections/skills/qlik.png
-  summary: "Experience leading teams using QlikView/QlikSense for BI development."
-  categories: ["tools-platforms"]
-  url: "https://www.qlik.com/"
-
-- name: Oracle BI (OBIEE/Publisher)
-  logo: /images/sections/skills/oracle.png
-  summary: "Led teams using OBIEE. Trained in Oracle BI Publisher and Discoverer."
-  categories: ["tools-platforms"]
-  url: "https://www.oracle.com/business-analytics/"
-
 - name: Apache Superset
   logo: /images/sections/skills/superset.png
   summary: "Implemented and managed Superset for business intelligence and management reporting."
   categories: ["tools-platforms"]
   url: "https://superset.apache.org/"
-
-- name: Test Automation (HP ALM/UFT)
-  logo: /images/sections/skills/hp-alm.png
-  summary: "Developed automated tests using HP ALM and UFT with C#."
-  categories: ["tools-platforms"]
-
-- name: T24 (Temenos)
-  logo: /images/sections/skills/temenos.png
-  summary: "Experience extracting data from and integrating with the T24 Core Banking System."
-  categories: ["tools-platforms"]
-  url: "https://www.temenos.com/products/t24-transact/"
 
 - name: Agile Methodologies (Scrum/Kanban)
   logo: /images/sections/skills/agile.png
@@ -292,29 +253,6 @@ skills:
   summary: "Adherence to SOLID, KISS, DRY principles for writing maintainable and scalable code."
   categories: ["methodology"]
 
-- name: Test-Driven Development (TDD/ATDD/BDD)
-  logo: /images/sections/skills/tdd.png
-  summary: "Familiar with and applied various test-driven development methodologies. Experience with Test Automation."
-  categories: ["methodology"]
-
-- name: TOGAF
-  logo: /images/sections/skills/togaf.png
-  summary: "TOGAF 9 Foundation certified. Understanding of enterprise architecture frameworks."
-  categories: ["methodology"]
-  url: "https://www.opengroup.org/togaf"
-
-- name: ITIL
-  logo: /images/sections/skills/itil.png
-  summary: "ITIL Foundation certified. Knowledge of IT service management best practices."
-  categories: ["methodology"]
-  url: "https://www.axelos.com/best-practice-solutions/itil"
-
-- name: Scaled Agile Framework (SAFe)
-  logo: /images/sections/skills/safe4.png
-  summary: "Certified SAFe 4 Agilist. Experience with large-scale agile frameworks."
-  categories: ["methodology"]
-  url: "https://www.scaledagileframework.com/"
-
 - name: Cursor
   logo: /images/sections/skills/cursor.png
   summary: "Cursor is a powerful AI-powered coding assistant that helps developers write code faster and more efficiently. It offers code completion, code explanations, and code generation capabilities, making it an invaluable tool for developers of all levels."
@@ -343,3 +281,65 @@ skills:
   summary: "Developed AI Agents using the Dify platform for process automation."
   categories: ["ai", "tools-platforms"]
   url: "https://dify.ai/"
+
+- name: Test-Driven Development (TDD/ATDD/BDD)
+  logo: /images/sections/skills/tdd.png
+  summary: "Familiar with and applied various test-driven development methodologies. Experience with Test Automation."
+  categories: ["methodology"]
+
+- name: Scaled Agile Framework (SAFe)
+  logo: /images/sections/skills/safe4.png
+  summary: "Certified SAFe 4 Agilist. Experience with large-scale agile frameworks."
+  categories: ["methodology"]
+  url: "https://www.scaledagileframework.com/"
+
+- name: TOGAF
+  logo: /images/sections/skills/togaf.png
+  summary: "TOGAF 9 Foundation certified. Understanding of enterprise architecture frameworks."
+  categories: ["methodology"]
+  url: "https://www.opengroup.org/togaf"
+
+- name: ITIL
+  logo: /images/sections/skills/itil.png
+  summary: "ITIL Foundation certified. Knowledge of IT service management best practices."
+  categories: ["methodology"]
+  url: "https://www.axelos.com/best-practice-solutions/itil"
+
+- name: Java
+  logo: /images/sections/skills/java.png
+  summary: "Java SE 8 Programmer certified. Developed custom components (e.g., for DataStage, Jira migration tool using REST). Familiar with Spring, Java EE, JSF, EJB."
+  categories: ["language"]
+  url: "https://www.java.com/"
+
+- name: C#
+  logo: /images/sections/skills/csharp.png
+  summary: "Used C# for Test Automation development with HP ALM/UFT."
+  categories: ["language"]
+
+- name: Alteryx
+  logo: /images/sections/skills/alteryx.png
+  summary: "Utilized Alteryx for ETL development as part of a broader data engineering toolkit."
+  categories: ["tools-platforms", "database"]
+
+- name: QlikView / QlikSense
+  logo: /images/sections/skills/qlik.png
+  summary: "Experience leading teams using QlikView/QlikSense for BI development."
+  categories: ["tools-platforms"]
+  url: "https://www.qlik.com/"
+
+- name: Oracle BI (OBIEE/Publisher)
+  logo: /images/sections/skills/oracle.png
+  summary: "Led teams using OBIEE. Trained in Oracle BI Publisher and Discoverer."
+  categories: ["tools-platforms"]
+  url: "https://www.oracle.com/business-analytics/"
+
+- name: Test Automation (HP ALM/UFT)
+  logo: /images/sections/skills/hp-alm.png
+  summary: "Developed automated tests using HP ALM and UFT with C#."
+  categories: ["tools-platforms"]
+
+- name: T24 (Temenos)
+  logo: /images/sections/skills/temenos.png
+  summary: "Experience extracting data from and integrating with the T24 Core Banking System."
+  categories: ["tools-platforms"]
+  url: "https://www.temenos.com/products/t24-transact/"
