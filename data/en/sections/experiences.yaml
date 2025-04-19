@@ -26,24 +26,24 @@ experiences:
         - Product Owner in Data Platform
         - Responsibilities will appear soon
 
-- company:
-    name: NOBS-IT
-    url: "https://www.nobs-it.pl"
-    location: Remote
-    logo: /images/sections/experiences/nobs_it_logo.png
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company1.jpg
-    # company overview
-    # overview: ""
-  positions:
-    - designation: Self-employed
-      start: 2022-02
-      # don't provide end date if you are currently working there. It will be replaced by "Present"
-      # end: Dec 2020
-      # give some points about what was your responsibilities at the company.
-      responsibilities:
-        - From end of 2024 I try build my own product - MVP in progress. Build it after working hours and weekends.
-        - Some super small projects and consultations connected with AI and LLM (LLama, ChatGPT, Anthropic, Gemini, etc.).
+#- company:
+#    name: NOBS-IT
+#    url: "https://www.nobs-it.pl"
+#    location: Remote
+#    logo: /images/sections/experiences/nobs_it_logo.png
+#    # Can optionally show a different logo for dark theme
+#    # darkLogo: /images/sections/experiences/company1.jpg
+#    # company overview
+#    # overview: ""
+#  positions:
+#    - designation: Self-employed
+#      start: 2022-02
+#      # don't provide end date if you are currently working there. It will be replaced by "Present"
+#      # end: Dec 2020
+#      # give some points about what was your responsibilities at the company.
+#      responsibilities:
+#        - From end of 2024 I try build my own product - MVP in progress. Build it after working hours and weekends.
+#        - Some super small projects and consultations connected with AI and LLM (LLama, ChatGPT, Anthropic, Gemini, etc.).
 
 - company:
     name: Silent Eight Pte. Lte.

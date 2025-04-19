@@ -7,6 +7,34 @@ section:
 
 experiences:
   - company:
+      name: Limango Polska sp. z o.o.
+      url: "https://www.limango.pl"
+      location: Remote
+      logo: /images/sections/experiences/limango.png
+      # Can optionally show a different logo for dark theme
+      #    darkLogo: /images/sections/experiences/
+      # company overview
+      overview: Limango Polska sp. z o.o. is a remote-first tech and operations hub for the Limango Group, a leading European e-commerce platform focused on family and lifestyle products.
+    positions:
+      - designation: SENIOR PRODUCT OWNER
+        start: 2025-05
+        responsibilities:
+          - Właściciel produktu Data Platform
+          - Odpowiedzialności pojawią się niedługo
+
+#  - company:
+#      name: NOBS-IT
+#      url: "https://www.nobs-it.pl"
+#      location: Remote
+#      logo: /images/sections/experiences/nobs_it_logo.png
+#    positions:
+#      - designation: Self-employed
+#        start: 2022-02
+#        responsibilities:
+#          - Od końca 2024 roku buduję własny produkt – MVP w trakcie realizacji. Prace prowadzone po godzinach pracy i w weekendy.
+#          - Kilka drobnych projektów i konsultacji związanych ze sztuczną inteligencją i LLM (LLama, ChatGPT, Anthropic, Gemini itp.).
+
+  - company:
       name: Silent Eight Pte. Lte.
       url: "https://www.silenteight.com"
       location: Remote
@@ -16,6 +44,7 @@ experiences:
     positions:
       - designation: DATA ARCHITECT - PRODUCT OWNER - DEVELOPMENT TECH LEAD
         start: 2022-02
+        end: 2025-04
         responsibilities:
           - Właściciel produktu ds. zarządzania danymi ryzyka na platformie AML – budowanie wizji produktu, roadmapy oraz dostarczanie i realizacja produktu.
           - Opracowanie i wdrożenie cyklu życia oprogramowania (SDLC) w całej firmie – od planowania i zbierania wymagań, przez rozwój, wdrożenie po stronie klienta, aż po utrzymanie.
@@ -32,18 +61,6 @@ experiences:
           - Praca jako programista Python – automatyzacja zadań manualnych, poprawa efektywności.
           - Tworzenie wspólnych komponentów jako programista React (Tailwind, ShadcnUI, TypeScript).
           - Ekspert baz danych PostgreSQL – tworzenie solidnych rozwiązań i optymalizacji.
-
-  - company:
-      name: NOBS-IT
-      url: "https://www.nobs-it.pl"
-      location: Remote
-      logo: /images/sections/experiences/nobs_it_logo.png
-    positions:
-      - designation: Self-employed
-        start: 2022-02
-        responsibilities:
-          - Od końca 2024 roku buduję własny produkt – MVP w trakcie realizacji. Prace prowadzone po godzinach pracy i w weekendy.
-          - Kilka drobnych projektów i konsultacji związanych ze sztuczną inteligencją i LLM (LLama, ChatGPT, Anthropic, Gemini itp.).
 
   - company:
       name: Nordea Bank Apb SA.
