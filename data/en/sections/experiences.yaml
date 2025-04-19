@@ -11,36 +11,20 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Silent Eight Pte. Lte.
-    url: "https://www.silenteight.com"
+    name: Limango Polska sp. z o.o.
+    url: "https://www.limango.pl"
     location: Remote
-    logo: /images/sections/experiences/silent-eight-logo-light-background.svg
+    logo: /images/sections/experiences/limango.png
     # Can optionally show a different logo for dark theme
-    darkLogo: /images/sections/experiences/silent-eight-logo-dark-background.svg
+#    darkLogo: /images/sections/experiences/
     # company overview
-    overview: AI Financial Crime Compliance Partner Empowering you to identify and manage AML risks with speed, efficiency, and unparalleled precision.
+    overview: Limango Polska sp. z o.o. is a remote-first tech and operations hub for the Limango Group, a leading European e-commerce platform focused on family and lifestyle products.
   positions:
-  - designation: DATA ARCHITECT - PRODUCT OWNER - DEVELOPMENT TECH LEAD
-    start: 2022-02
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Product Owner of Risk Data Management in AML Platform - Build Product Vision, roadmap, and product delivery and execution.
-    - Developed and implemented the Software Development Life Cycle (SDLC) for the entire company, covering the full spectrum from planning, requirements gathering, development, and release of applications to client-side implementation and ongoing maintenance and support.
-    - Helped company to get SOC2 Certification
-    - Acted as an Agile Coach in the company's transformation, leading the implementation of agile development practices.
-    - Conducted Product Owner training sessions for fellow Product Owners across the company, enhancing cross-team alignment and promoting best practices in agile product management.
-    - Built and managed a management reporting system, including Superset implementation (open source BI) and ETLing of management data (on Kubernetes).
-    - Automation of company processes using AI (ChatGPT, Anthropic, Gemini) and
-    - Develop AI Agents (Dify)
-    - Implemented and oversaw the use of timesheets for employee time tracking (in Jira) and reporting in Superset and ChatGPT prompt reporting.
-    - Served as the JIRA and Confluence Administrator, managing configurations and providing expert guidance and solutions.
-    - Implemented a knowledge management database and managed company documentation (including company Intranet).
-    - Member of the Architecture Board, responsible for the Non-Functional Requirements (NFR) process (database and python)
-    - Worked as a Python developer to automate manual tasks, enhancing efficiency and productivity.
-    - Developed common components as React developer (Tailwind, ShadcnUI, and TypeScript)
-    - Expert in PostgreSQL databases, providing robust solutions and optimizations.
+    - designation: SENIOR PRODUCT OWNER
+      start: 2025-05
+      responsibilities:
+        - Product Owner in Data Platform
+        - Responsibilities will appear soon
 
 - company:
     name: NOBS-IT
@@ -60,6 +44,38 @@ experiences:
       responsibilities:
         - From end of 2024 I try build my own product - MVP in progress. Build it after working hours and weekends.
         - Some super small projects and consultations connected with AI and LLM (LLama, ChatGPT, Anthropic, Gemini, etc.).
+
+- company:
+    name: Silent Eight Pte. Lte.
+    url: "https://www.silenteight.com"
+    location: Remote
+    logo: /images/sections/experiences/silent-eight-logo-light-background.svg
+    # Can optionally show a different logo for dark theme
+    darkLogo: /images/sections/experiences/silent-eight-logo-dark-background.svg
+    # company overview
+    overview: AI Financial Crime Compliance Partner Empowering you to identify and manage AML risks with speed, efficiency, and unparalleled precision.
+  positions:
+  - designation: DATA ARCHITECT - PRODUCT OWNER - DEVELOPMENT TECH LEAD
+    start: 2022-02
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: 2025-04
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Product Owner of Risk Data Management in AML Platform - Build Product Vision, roadmap, and product delivery and execution.
+    - Developed and implemented the Software Development Life Cycle (SDLC) for the entire company, covering the full spectrum from planning, requirements gathering, development, and release of applications to client-side implementation and ongoing maintenance and support.
+    - Helped company to get SOC2 Certification
+    - Acted as an Agile Coach in the company's transformation, leading the implementation of agile development practices.
+    - Conducted Product Owner training sessions for fellow Product Owners across the company, enhancing cross-team alignment and promoting best practices in agile product management.
+    - Built and managed a management reporting system, including Superset implementation (open source BI) and ETLing of management data (on Kubernetes).
+    - Automation of company processes using AI (ChatGPT, Anthropic, Gemini) and
+    - Develop AI Agents (Dify)
+    - Implemented and oversaw the use of timesheets for employee time tracking (in Jira) and reporting in Superset and ChatGPT prompt reporting.
+    - Served as the JIRA and Confluence Administrator, managing configurations and providing expert guidance and solutions.
+    - Implemented a knowledge management database and managed company documentation (including company Intranet).
+    - Member of the Architecture Board, responsible for the Non-Functional Requirements (NFR) process (database and python)
+    - Worked as a Python developer to automate manual tasks, enhancing efficiency and productivity.
+    - Developed common components as React developer (Tailwind, ShadcnUI, and TypeScript)
+    - Expert in PostgreSQL databases, providing robust solutions and optimizations.
 
 - company:
     name: Nordea Bank Apb SA.
