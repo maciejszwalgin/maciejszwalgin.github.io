@@ -70,7 +70,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
       with:
-        args: "--verbose --no-progress --exclude 'https://www.udemy.com' './public/**/*.html'"
+        args: "--verbose --no-progress --root-dir '${{ github.workspace }}/public' --exclude 'https://www.udemy.com' './public/**/*.html'"
         output: lychee/out.md
 
     - name: Comment Broken Links
