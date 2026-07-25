@@ -3,6 +3,10 @@ baseURL: https://maciejszwalgin.github.io
 locale: en
 title: "Maciej Szwalgin Portfolio"
 
+services:
+  googleAnalytics:
+    id: G-T9K3X54Y65
+
 # Use Hugo modules to add theme
 module:
   imports:
