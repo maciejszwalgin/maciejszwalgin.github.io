@@ -23,5 +23,5 @@ To run this project locally, follow these steps:
 
 ### Prerequisites
 
-- [Hugo (Extended version)](https://gohugo.io/installation/)
+- [Hugo (Extended version)](https://gohugo.io/installation/) — must be installed and added to your system `PATH`
 - [Node.js](https://nodejs.org/)
