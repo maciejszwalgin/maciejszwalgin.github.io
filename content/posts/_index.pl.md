@@ -1,3 +1,3 @@
 ---
-title: Wpisy
+title: Posty
 ---

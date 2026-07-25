@@ -25,6 +25,7 @@ The landing page is data-driven. Sections (About, Experience, Skills, Projects, 
 - **Multilingual Files:**
   - `index.md` -> English (Default)
   - `index.pl.md` -> Polish
+- **Formatting / Shortcodes reference:** For post front matter, Markdown conventions, and available Toha shortcodes (video, embed-pdf, mermaid, gist, split, etc.), see the theme docs at [toha-docs.hugo-themes.com/posts/writing-posts/](https://toha-docs.hugo-themes.com/posts/writing-posts/), or the worked examples kept in this repo under `examples/posts/` (not published — reference only).
 
 ## 3. Operations & Workflows
 
