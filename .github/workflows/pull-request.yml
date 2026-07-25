@@ -73,6 +73,9 @@ jobs:
         args: >-
           --verbose --no-progress
           --root-dir '${{ github.workspace }}/public'
+          --max-retries 5
+          --retry-wait-time 5
+          --exclude 'https://maciejszwalgin.github.io'
           --exclude 'https://www.udemy.com'
           --exclude 'https://www.linkedin.com'
           --exclude 'https://powerbi.microsoft.com'
