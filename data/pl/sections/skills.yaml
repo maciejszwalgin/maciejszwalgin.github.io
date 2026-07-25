@@ -173,6 +173,11 @@ skills:
   summary: "Używany do budowania potoków CI/CD."
   categories: ["devops-cloud"]
 
+- name: CI/CD
+  icon: "fas fa-infinity"
+  summary: "Projektowanie i wdrażanie pipeline'ów CI/CD oraz standardów (Jenkins, GitLab, workflow oparty o Git) w projektach hurtowni danych i aplikacji."
+  categories: ["devops-cloud", "methodology"]
+
 - name: Linux
   logo: /images/sections/skills/linux.png
   summary: "Biegły w używaniu środowisk Linux do rozwoju i wdrażania."
@@ -194,6 +199,12 @@ skills:
   summary: "Używany Spark (przez Python) do procesów ETL i manipulacji danymi w raportowaniu zarządczym."
   categories: ["tools-platforms", "database"]
   url: "https://spark.apache.org/"
+
+- name: PySpark
+  logo: /images/sections/skills/spark.png
+  summary: "Python API dla Apache Spark, wykorzystywany do rozproszonego przetwarzania danych i ETL w Databricks oraz w potokach raportowania zarządczego."
+  categories: ["language", "database"]
+  url: "https://spark.apache.org/docs/latest/api/python/"
 
 - name: Power BI
   logo: /images/sections/skills/powerbi.png

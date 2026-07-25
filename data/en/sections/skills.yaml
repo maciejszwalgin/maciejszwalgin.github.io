@@ -173,6 +173,11 @@ skills:
   summary: "Used for building CI/CD pipelines."
   categories: ["devops-cloud"]
 
+- name: CI/CD
+  icon: "fas fa-infinity"
+  summary: "Designed and implemented CI/CD pipelines and standards (Jenkins, GitLab, Git-based workflows) across data warehouse and application development projects."
+  categories: ["devops-cloud", "methodology"]
+
 - name: Linux
   logo: /images/sections/skills/linux.png
   summary: "Proficient in using Linux environments for development and deployment."
@@ -194,6 +199,12 @@ skills:
   summary: "Used Spark (via Python) for ETL processes and data manipulation in management reporting."
   categories: ["tools-platforms", "database"]
   url: "https://spark.apache.org/"
+
+- name: PySpark
+  logo: /images/sections/skills/spark.png
+  summary: "Python API for Apache Spark, used for distributed data processing and ETL in Databricks and management reporting pipelines."
+  categories: ["language", "database"]
+  url: "https://spark.apache.org/docs/latest/api/python/"
 
 - name: Power BI
   logo: /images/sections/skills/powerbi.png
