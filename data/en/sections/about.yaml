@@ -20,7 +20,7 @@ company:
 
 # a summary about you
 summary: |
-  Team Leader and Software Engineer with 19 years of experience in the area of analysis, design, 
+  Team Leader and Senior Data Engineer with 20 years of experience in the area of analysis, design, 
   and development of software.
   
   I have DevOps and Agile mindset. I appreciate people who are: open, honest, and transparent. 
@@ -78,35 +78,29 @@ badges:
 - type: soft-skill-indicator
   name: Leadership
   percentage: 90
-  color: blue
+  color: "#2a78d6"
 
 - type: soft-skill-indicator
   name: Accountability
-  percentage: 90
-  color: "#FFFFFF"
+  percentage: 95
+  color: "#eda100"
 
 - type: soft-skill-indicator
   name: Team Player
   percentage: 90
-  color: "#a020f0"
+  color: "#008300"
 
 - type: soft-skill-indicator
   name: Passion
   percentage: 95
-  color: "#0ff"
+  color: "#e34948"
 
 - type: soft-skill-indicator
   name: Flexibility
   percentage: 85
-  color: yellow
+  color: "#1baf7a"
 
 - type: soft-skill-indicator
   name: Creativity
   percentage: 85
-  color: green
-
-# you can also provide color code instead of the color name
-# - type: soft-skill-indicator
-#   name: Example 1
-#   percentage: 75
-#   color: "#00adb5"
+  color: "#4a3aa7"

@@ -7,20 +7,41 @@ section:
 
 experiences:
   - company:
+      name: Avarda Bank
+      url: "https://avarda.com/"
+      location: Gdańsk, Polska (Hybrid)
+      logo: /images/sections/experiences/avardapayments_logo.jpeg
+      # Can optionally show a different logo for dark theme
+      #    darkLogo: /images/sections/experiences/
+      # company overview
+      overview: Avarda to nordycki dostawca rozwiązań płatniczych, umożliwiający sklepom internetowym płynny, w pełni zabrandowany proces płatności obejmujący karty, portfele cyfrowe oraz opcje kup teraz, zapłać później (BNPL).
+    positions:
+      - designation: DATA PLATFORM LEAD
+        start: 2026-07
+        responsibilities:
+          - Odpowiedzialności pojawią się niedługo
+
+  - company:
       name: Limango Polska sp. z o.o.
       url: "https://www.limango.pl"
-      location: Remote
+      location: Wrocław, Polska (Zdalnie)
       logo: /images/sections/experiences/limango.png
       # Can optionally show a different logo for dark theme
       #    darkLogo: /images/sections/experiences/
       # company overview
       overview: Limango Polska sp. z o.o. is a remote-first tech and operations hub for the Limango Group, a leading European e-commerce platform focused on family and lifestyle products.
     positions:
-      - designation: SENIOR PRODUCT OWNER
+      - designation: SENIOR DATA PRODUCT OWNER
         start: 2025-05
+        end: 2026-06
         responsibilities:
-          - Właściciel produktu Data Platform
-          - Odpowiedzialności pojawią się niedługo
+          - Product Owner Data Platform – budowa wizji produktu danych, roadmapy, dostarczanie i realizacja, zarządzanie ryzykiem.
+          - Współpraca z 15+ interesariuszami biznesowymi w celu dopasowania inicjatyw danych do celów firmy.
+          - Wdrożenie Data Governance w obszarze danych.
+          - Zainicjowanie i rozwój obszaru Data Domain, integrującego scentralizowany Data Lakehouse jako jedyne źródło prawdy dla raportowania i zastosowań ML.
+          - Data Engineer dla małych projektów wewnętrznych (automatyzacja metadanych Databricks, raportowanie Jira w Databricks).
+          - Administrator JIRA i Confluence – zarządzanie konfiguracją i wsparcie eksperckie.
+          - Scrum Master – wspieranie praktyk agile i ciągłego doskonalenia zespołu.
 
 #  - company:
 #      name: NOBS-IT
@@ -37,7 +58,7 @@ experiences:
   - company:
       name: Silent Eight Pte. Lte.
       url: "https://www.silenteight.com"
-      location: Remote
+      location: Singapure (Zdalnie)
       logo: /images/sections/experiences/silent-eight-logo-light-background.svg
       darkLogo: /images/sections/experiences/silent-eight-logo-dark-background.svg
       overview: Partner ds. zgodności finansowej opartej na AI, pomagający w identyfikacji i zarządzaniu ryzykiem AML z szybkością, wydajnością i niespotykaną precyzją.

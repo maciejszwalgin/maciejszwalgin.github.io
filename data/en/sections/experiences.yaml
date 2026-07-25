@@ -11,20 +11,41 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Avarda Bank
+    url: "https://avarda.com/"
+    location: Gdańsk, Poland (Hybrid)
+    logo: /images/sections/experiences/avardapayments_logo.jpeg
+    # Can optionally show a different logo for dark theme
+#    darkLogo: /images/sections/experiences/
+    # company overview
+    overview: Avarda is a Nordic payment solutions provider empowering e-commerce merchants with seamless, fully-branded checkout experiences across cards, digital wallets, and buy-now-pay-later options.
+  positions:
+    - designation: DATA PLATFORM LEAD
+      start: 2026-07
+      responsibilities:
+        - Responsibilities will appear soon
+
+- company:
     name: Limango Polska sp. z o.o.
     url: "https://www.limango.pl"
-    location: Remote
+    location: Wrocław, Poland (Remote)
     logo: /images/sections/experiences/limango.png
     # Can optionally show a different logo for dark theme
 #    darkLogo: /images/sections/experiences/
     # company overview
     overview: Limango Polska sp. z o.o. is a remote-first tech and operations hub for the Limango Group, a leading European e-commerce platform focused on family and lifestyle products.
   positions:
-    - designation: SENIOR PRODUCT OWNER
+    - designation: SENIOR DATA PRODUCT OWNER
       start: 2025-05
+      end: 2026-06
       responsibilities:
-        - Product Owner in Data Platform
-        - Responsibilities will appear soon
+        - Product Owner of Data Platform - Build Data Product Vision, roadmap, product delivery, and execution, risk management.
+        - Collaborated with 15+ business stakeholders to align data initiatives with company objectives.
+        - Data Governance implementation in the Data Area.
+        - Initiated and developed the Data Domain Area, integrating a centralized Data Lakehouse as the single source of truth for reporting and machine learning use cases.
+        - Data Engineer for small internal projects (automate Databricks metadata, Jira reporting in Databricks).
+        - Served as JIRA and Confluence Administrator, managing system configurations and providing expert-level support and solutions.
+        - Acted as Scrum Master, facilitating agile development practices and continuous team improvement.
 
 #- company:
 #    name: NOBS-IT
@@ -48,7 +69,7 @@ experiences:
 - company:
     name: Silent Eight Pte. Lte.
     url: "https://www.silenteight.com"
-    location: Remote
+    location: Singapore (Remote)
     logo: /images/sections/experiences/silent-eight-logo-light-background.svg
     # Can optionally show a different logo for dark theme
     darkLogo: /images/sections/experiences/silent-eight-logo-dark-background.svg

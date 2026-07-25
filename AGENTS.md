@@ -34,7 +34,7 @@ The landing page is data-driven. Sections (About, Experience, Skills, Projects, 
 - **Update Theme:** `hugo mod get -u github.com/hugo-toha/toha/v4`.
 
 ### Deployment
-- **Platform:** Netlify (configured in `netlify.toml`).
+- **Platform:** GitHub Pages (`.github/workflows/merge-to-main.yml`).
 - **CI/CD:** GitHub Actions (configured in `.github/workflows/`).
 - **Automatic:** Pushes to `master` trigger a rebuild and deploy.
 
