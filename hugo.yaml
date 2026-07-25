@@ -1,6 +1,6 @@
 baseURL: https://maciejszwalgin.github.io
 
-languageCode: en
+locale: en
 title: "Maciej Szwalgin Portfolio"
 
 # Use Hugo modules to add theme
@@ -27,13 +27,13 @@ module:
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
 languages:
   en:
-    languageCode: en
-    languageName: English
+    locale: en
+    label: English
     title: Maciej Szwalgin Portfolio
     weight: 1
   pl:
-    languageCode: pl
-    languageName: Polski
+    locale: pl
+    label: Polski
     title: Maciej Szwalgin Portfolio
     weight: 2
 # default language for the content
