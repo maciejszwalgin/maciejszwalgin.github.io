@@ -22,7 +22,7 @@ degrees:
   customSections: #(optional)
     - name: Thesis
       content: Knowledge Management in Big Organisations.
-- name: Master of Physics and Mathematics
+- name: "Master of Physics and Mathematics (+ second specialization: Computer Physics)"
   icon: fa-graduation-cap
   timeframe: 2000-2006
   institution:

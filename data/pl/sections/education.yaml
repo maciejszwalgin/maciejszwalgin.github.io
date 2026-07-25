@@ -22,7 +22,7 @@ degrees:
   customSections: #(optional)
     - name: Praca dyplomowa
       content: Zarządzanie Wiedzą w dużych organizacjach.
-- name: Magister fizyki i matematyki
+- name: "Magister fizyki i matematyki (+ druga specjalizacja: fizyka komputerowa)"
   icon: fa-graduation-cap
   timeframe: 2000-2006
   institution:

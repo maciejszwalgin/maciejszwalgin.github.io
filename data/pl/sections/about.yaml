@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer / Data Architect / Product Owner / Agile Geek and owner
+designation: Senior Data Engineer / Data Architect / Data Product Owner / Agile Geek and owner
 # your company information
 company:
   name: NOBS-IT

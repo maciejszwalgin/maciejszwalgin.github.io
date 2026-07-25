@@ -343,3 +343,39 @@ skills:
   summary: "Doświadczenie w ekstrakcji danych i integracji z systemem bankowym T24 Core Banking."
   categories: ["tools-platforms"]
   url: "https://www.temenos.com/products/t24-transact/"
+
+- name: Databricks
+  logo: /images/sections/skills/databricks.svg
+  summary: "Certyfikaty Databricks Academy w zakresie Data Engineering, Lakeflow, Unity Catalog i optymalizacji wydajności. Wykorzystywany do budowy platformy danych i migracji do Lakehouse w Limango."
+  categories: ["tools-platforms", "database"]
+  url: "https://www.databricks.com/"
+
+- name: Terraform
+  logo: /images/sections/skills/terraform.svg
+  summary: "Narzędzie Infrastructure as Code używane do provisioningu i zarządzania infrastrukturą chmurową."
+  categories: ["devops-cloud", "tools-platforms"]
+  url: "https://www.terraform.io/"
+
+- name: Claude
+  logo: /images/sections/skills/claude.svg
+  summary: "Asystent AI od Anthropic, wykorzystywany do wsparcia w programowaniu, automatyzacji procesów i eksploracji zastosowań AI/LLM obok ChatGPT i Gemini."
+  categories: ["ai", "tools-platforms"]
+  url: "https://claude.com/"
+
+- name: GitHub Copilot
+  logo: /images/sections/skills/github-copilot.svg
+  summary: "Asystent AI do programowania parowego, wykorzystywany do podpowiedzi kodu i przyspieszania pracy deweloperskiej."
+  categories: ["ai", "tools-platforms"]
+  url: "https://github.com/features/copilot"
+
+- name: Gemini
+  logo: /images/sections/skills/gemini.svg
+  summary: "Rodzina modeli AI od Google, wykorzystywana do automatyzacji procesów, raportowania i eksploracji AI/LLM obok ChatGPT i Claude."
+  categories: ["ai"]
+  url: "https://gemini.google.com/"
+
+- name: n8n
+  logo: /images/sections/skills/n8n.svg
+  summary: "Platforma automatyzacji workflow używana do budowania zautomatyzowanych procesów oraz łączenia narzędzi i agentów AI."
+  categories: ["ai", "tools-platforms"]
+  url: "https://n8n.io/"
