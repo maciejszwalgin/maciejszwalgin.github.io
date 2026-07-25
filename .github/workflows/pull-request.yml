@@ -70,7 +70,17 @@ jobs:
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
       with:
-        args: "--verbose --no-progress --root-dir '${{ github.workspace }}/public' --exclude 'https://www.udemy.com' './public/**/*.html'"
+        args: >-
+          --verbose --no-progress
+          --root-dir '${{ github.workspace }}/public'
+          --exclude 'https://www.udemy.com'
+          --exclude 'https://www.linkedin.com'
+          --exclude 'https://powerbi.microsoft.com'
+          --exclude 'https://gemini.google.com'
+          --exclude 'https://(www\.)?reddit.com/submit'
+          --exclude 'https://player.vimeo.com'
+          --exclude 'https://www.pexels.com'
+          './public/**/*.html'
         output: lychee/out.md
 
     - name: Comment Broken Links
